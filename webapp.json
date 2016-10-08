@@ -1,0 +1,9 @@
+{
+  "name":				"My App",
+  "width":				800,
+  "height":				480,
+  "protocol":			"app",
+  "protocol_call":		"app_call",
+  "html_url":			"index.html",
+  "NavComplete_call":	"app_page"
+}
