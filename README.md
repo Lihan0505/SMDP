@@ -1,4 +1,4 @@
-# SMDP.ahk
+# SMDP
 A simple Markdown previewer using [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) and [Webapp.ahk](https://github.com/joedf/Webapp.ahk)
 
 Consider this **beta** quality
@@ -8,3 +8,6 @@ Download and run **SMDP.ahk**
 
 ## Screenshot
 ![screenshot](screenshot.jpg)
+
+##TO Do
+Return from preview without exiting
